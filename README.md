@@ -1,1 +1,3 @@
-# TMS_AN_15_Homework_Lesson4
+Repository for homework #4
+
+Exersise 2 not done
